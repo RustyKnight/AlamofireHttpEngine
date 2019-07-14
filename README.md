@@ -1,2 +1,2 @@
 # AlamofireHttpEngine
-A implement of the HttpEngineCore using Alamofire
+A implementation of the HttpEngineCore using Alamofire
