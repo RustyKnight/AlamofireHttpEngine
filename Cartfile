@@ -1,0 +1,9 @@
+# Logging
+binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/Cadmus" ~> 1.0.5
+
+# Networking
+binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/HttpEngineCore" ~> 0.0.4
+binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/Alamofire" ~> 4.8.0
+
+# Promises
+binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/Hydra" ~> 1.2.1
